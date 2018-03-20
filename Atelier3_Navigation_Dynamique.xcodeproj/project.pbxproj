@@ -67,7 +67,6 @@
 			isa = PBXGroup;
 			children = (
 				2D322AF51FA9C8B500179CDD /* Data */,
-				2D322AEF1FA9C81600179CDD /* Service */,
 				2D322AF01FA9C81A00179CDD /* Model */,
 				2D322AEE1FA9C81200179CDD /* ViewController */,
 				2D322ADC1FA9C7FC00179CDD /* AppDelegate.swift */,
@@ -87,13 +86,6 @@
 				2D322AF81FA9CA4600179CDD /* MovieCell.swift */,
 			);
 			path = ViewController;
-			sourceTree = "<group>";
-		};
-		2D322AEF1FA9C81600179CDD /* Service */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Service;
 			sourceTree = "<group>";
 		};
 		2D322AF01FA9C81A00179CDD /* Model */ = {
